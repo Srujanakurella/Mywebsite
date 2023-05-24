@@ -1,0 +1,11 @@
+.myimage{
+    border-radius:50%;
+    border-style:solid;
+    border-width:1px;
+    border-color:#00008B;
+    width:300px;
+    height:300px;
+}
+.download-cv{
+    display:block;
+}
